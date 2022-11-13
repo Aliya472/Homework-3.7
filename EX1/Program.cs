@@ -4,13 +4,8 @@
 //1 -3,3 8 -9,9
 //8 7,8 -7,1 9
 
-// 1. функция ввод числа 
-int Num() 
-{ 
-    Console.WriteLine("Введите число "); 
-    int n = Convert.ToInt32(Console.ReadLine()); 
-    return n; 
-} 
+
+
 // 2. запрос количества строк 
 int Rows_OR_Columbs_Num(string text) 
 { 
