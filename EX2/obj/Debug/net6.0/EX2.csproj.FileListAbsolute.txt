@@ -1,0 +1,15 @@
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX2\bin\Debug\net6.0\EX2.exe
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX2\bin\Debug\net6.0\EX2.deps.json
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX2\bin\Debug\net6.0\EX2.runtimeconfig.json
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX2\bin\Debug\net6.0\EX2.dll
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX2\bin\Debug\net6.0\EX2.pdb
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX2\obj\Debug\net6.0\EX2.csproj.AssemblyReference.cache
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX2\obj\Debug\net6.0\EX2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX2\obj\Debug\net6.0\EX2.AssemblyInfoInputs.cache
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX2\obj\Debug\net6.0\EX2.AssemblyInfo.cs
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX2\obj\Debug\net6.0\EX2.csproj.CoreCompileInputs.cache
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX2\obj\Debug\net6.0\EX2.dll
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX2\obj\Debug\net6.0\refint\EX2.dll
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX2\obj\Debug\net6.0\EX2.pdb
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX2\obj\Debug\net6.0\EX2.genruntimeconfig.cache
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX2\obj\Debug\net6.0\ref\EX2.dll
