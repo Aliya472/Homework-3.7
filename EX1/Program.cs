@@ -3,6 +3,7 @@
 //0,5 7 -2 -0,2
 //1 -3,3 8 -9,9
 //8 7,8 -7,1 9
+
 // 1. функция ввод числа 
 int Num() 
 { 
@@ -41,7 +42,7 @@ void PrintArray(double[,] N)
     for (int i = 0; i < N.GetLength(0); i++, Console.WriteLine("")) 
     { 
         for (int j = 0; j < N.GetLength(1); j++) 
-        { Console.Write(N[i, j] + "\t");} 
+        { Console.Write($"{N[i, j]:f2} \t");} 
     } 
 } 
  
