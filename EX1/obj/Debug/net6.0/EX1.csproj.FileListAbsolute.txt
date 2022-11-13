@@ -1,0 +1,15 @@
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX1\bin\Debug\net6.0\EX1.exe
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX1\bin\Debug\net6.0\EX1.deps.json
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX1\bin\Debug\net6.0\EX1.runtimeconfig.json
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX1\bin\Debug\net6.0\EX1.dll
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX1\bin\Debug\net6.0\EX1.pdb
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX1\obj\Debug\net6.0\EX1.csproj.AssemblyReference.cache
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX1\obj\Debug\net6.0\EX1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX1\obj\Debug\net6.0\EX1.AssemblyInfoInputs.cache
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX1\obj\Debug\net6.0\EX1.AssemblyInfo.cs
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX1\obj\Debug\net6.0\EX1.csproj.CoreCompileInputs.cache
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX1\obj\Debug\net6.0\EX1.dll
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX1\obj\Debug\net6.0\refint\EX1.dll
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX1\obj\Debug\net6.0\EX1.pdb
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX1\obj\Debug\net6.0\EX1.genruntimeconfig.cache
+C:\Users\Газинур\Desktop\GB\Lesson 3.7\EX1\obj\Debug\net6.0\ref\EX1.dll
